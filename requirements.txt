@@ -1,0 +1,11 @@
+torch
+python-dotenv 
+fish_audio_sdk
+pyaudio
+funasr
+sounddevice
+soundfile
+edge_tts
+torchaudio
+numba==0.60.0
+modelscope
