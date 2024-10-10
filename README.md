@@ -4,9 +4,17 @@
 
 ## 功能特性
 - 唤醒词检测
+  - iic/speech_charctc_kws_phone-xiaoyun  该模型使用其它词仅仅可用，要效果好需要训练。
+- VAD
 - 语音识别 (ASR)
+  - senseVoice、 paraformer
 - 语音合成 (TTS)
-- 支持多种ASR和TTS引擎
+  - fish  https://fish.audio/zh-CN/
+  - fish_local  本地自建 https://github.com/fishaudio/fish-speech
+  - edge
+- LLM 大语言模型
+  - ollama
+  - deepseek
 
 ## 安装
 
